@@ -1,0 +1,7 @@
+{
+  "name": "Defense-Tech Strategy Portal",
+  "description": "A high-fidelity business model visualization for a defense logistics platform, featuring interactive charts, GTM timelines, and a Gemini-powered strategy assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
